@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/yamazaki-sensei/about/issues"
   },
-  "homepage": "https://github.com/yamazaki-sensei/about#readme"
+  "homepage": "https://github.com/yamazaki-sensei/about#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
